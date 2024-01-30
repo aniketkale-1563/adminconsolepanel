@@ -1,0 +1,17 @@
+/* css/style.css */
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.mt-5 {
+    margin-top: 5rem !important;
+}
+
+/* Add more styles as needed */
